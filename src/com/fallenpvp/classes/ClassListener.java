@@ -10,6 +10,7 @@ public class ClassListener implements Listener {
     @EventHandler
     public void ClassGUIListener(InventoryClickEvent e) {
         Player p = (Player) e.getWhoClicked();
+
     }
 
 }

@@ -3,6 +3,8 @@
     <output-path>$PROJECT_DIR$/out/artifacts/FallenClasses_jar</output-path>
     <root id="archive" name="FallenClasses.jar">
       <element id="module-output" name="FallenClasses" />
+      <element id="library" level="project" name="McMMO" />
+      <element id="library" level="project" name="spigot-1.8" />
     </root>
   </artifact>
 </component>
